@@ -29,14 +29,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/51/7c/8c/517c8ce85483ff710c49936c45fdc1a1.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/eduardodev65/eduardodev65/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/luiz-eduardo-santini/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -45,5 +37,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/51/7c/8c/517c8ce85483ff710c49936c45fdc1a1.gif"  />
 
 ###
